@@ -1,0 +1,8 @@
+<application>
+  <component name="UISettings">
+    <option name="EDITOR_TAB_LIMIT" value="20" />
+    <option name="EDITOR_TAB_PLACEMENT" value="3" />
+    <option name="MAX_CLIPBOARD_CONTENTS" value="20" />
+    <option name="smoothScrolling" value="true" />
+  </component>
+</application>
