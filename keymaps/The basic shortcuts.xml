@@ -1,4 +1,8 @@
 <keymap version="1" name="The basic shortcuts" parent="$default">
+  <action id="Bitbucket.CopyFileUrlInBitbucket" />
+  <action id="Bitbucket.CreatePullRequest" />
+  <action id="Bitbucket.CreateSnippet" />
+  <action id="Bitbucket.OpenFileInBitbucket" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
