@@ -1,0 +1,19 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2018-02-16T19:12:35</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2017.3.4.0.0</property>
+    <property name="modified">2018-02-16T19:15:37</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <attributes>
+    <option name="BROWSEWORDATCARET">
+      <value>
+        <option name="BACKGROUND" value="155221" />
+        <option name="EFFECT_COLOR" value="3c704b" />
+        <option name="ERROR_STRIPE_COLOR" value="530d" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
