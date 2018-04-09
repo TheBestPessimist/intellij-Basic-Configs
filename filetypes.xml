@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="gitignore_global.txt" type="Git file" />
+      <mapping pattern="filters_agressive" type="RegExp" />
+      <mapping pattern="filters" type="RegExp" />
     </extensionMap>
   </component>
 </application>
