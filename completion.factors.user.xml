@@ -116,7 +116,7 @@
         <observation name="typedSelect" value="15.0" />
       </dailyData>
       <dailyData date="14-5-2018">
-        <observation name="cancelled" value="23.0" />
+        <observation name="cancelled" value="48.0" />
       </dailyData>
     </factor>
     <factor id="completionType">
@@ -153,7 +153,7 @@
         <observation name="count" value="566.0" />
       </dailyData>
       <dailyData date="14-5-2018">
-        <observation name="count" value="23.0" />
+        <observation name="count" value="48.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:explicitProximity">
