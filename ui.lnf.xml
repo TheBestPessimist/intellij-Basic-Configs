@@ -5,5 +5,6 @@
     <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="MAX_CLIPBOARD_CONTENTS" value="20" />
     <option name="SHOW_CLOSE_BUTTON" value="false" />
+    <option name="smoothScrolling" value="true" />
   </component>
 </application>
