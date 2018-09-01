@@ -41,14 +41,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug">
-        <Item>
-          <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
-          <ShortCut>'Alt+5'</ShortCut>
-          <Description>Debug</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Delete...">
         <Item>
           <IdeaActionID>$Delete</IdeaActionID>
@@ -70,14 +62,6 @@
           <IdeaActionID>ExternalSystem.ExpandAll</IdeaActionID>
           <ShortCut>'Ctrl+NumPad +' or 'Ctrl+='</ShortCut>
           <Description>Expand All</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Messages">
-        <Item>
-          <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
-          <ShortCut>'Alt+0'</ShortCut>
-          <Description>Messages</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -103,14 +87,6 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Refresh</Description>
           <Count>10</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'HowToHttpRequestKt'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'Ctrl+F5'</ShortCut>
-          <Description>Rerun 'HowToHttpRequestKt'</Description>
-          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -145,14 +121,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop 'HowToHttpRequestKt'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop 'HowToHttpRequestKt'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="TODO">
         <Item>
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
@@ -182,7 +150,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>20</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
     </option>
