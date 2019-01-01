@@ -2,12 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern="gitignore_global.txt" type="Git file" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="THANKS.md" type="PLAIN_TEXT" />
-      <mapping pattern="filters_agressive" type="RegExp" />
-      <mapping pattern="filters" type="RegExp" />
-      <mapping pattern="discourse-setup" type="Bash" />
     </extensionMap>
   </component>
 </application>
