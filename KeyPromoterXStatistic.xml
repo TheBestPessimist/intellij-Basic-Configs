@@ -97,6 +97,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Go To Hash/Branch/Tag">
+        <Item>
+          <IdeaActionID>Vcs.Log.GoToRef</IdeaActionID>
+          <ShortCut>'Ctrl+F' or 'Alt+F3'</ShortCut>
+          <Description>Go To Hash/Branch/Tag</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Move to Another Changelist...">
         <Item>
           <IdeaActionID>ChangesView.Move</IdeaActionID>
@@ -206,7 +214,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>33</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
     </option>
