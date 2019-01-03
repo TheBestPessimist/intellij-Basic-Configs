@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="11d815ec-fcfa-4108-9ded-e41e6a05534d" name="chat.tbp.land" url="http://ssh.chat.tbp.land">
+      <webServer id="11d815ec-fcfa-4108-9ded-e41e6a05534d" name="ssh.chat.tbp.land" url="http://ssh.chat.tbp.land">
         <fileTransfer host="ssh.chat.tbp.land" port="22" privateKey="C:\Users\crist\.ssh\chat.tbp.land.ppk" rootFolder="/var/duplicacy-utils-telegram-bot/" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
