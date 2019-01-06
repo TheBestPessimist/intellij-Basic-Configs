@@ -22,7 +22,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>73</Count>
+          <Count>77</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Files">
@@ -153,6 +153,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'go build penis.go'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'go build penis.go'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Show All Affected Files">
         <Item>
           <IdeaActionID>Vcs.Log.ShowAllAffected</IdeaActionID>
@@ -206,7 +214,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>35</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
