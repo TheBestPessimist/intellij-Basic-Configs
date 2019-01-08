@@ -9,6 +9,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="f6d9c7f3-ae23-4312-b720-a1980736f1d0" name="duplicacy-utils.ssh.chat.tbp.land" url="http://ssh.chat.tbp.land">
+        <fileTransfer host="ssh.chat.tbp.land" port="22" privateKey="C:\Users\crist\.ssh\chat.tbp.land.ppk" rootFolder="/root/duplicacy-repositories" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
