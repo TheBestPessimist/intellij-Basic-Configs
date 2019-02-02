@@ -22,7 +22,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>97</Count>
+          <Count>102</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Files">
@@ -62,6 +62,14 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'go build main.go'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'index.html (1)'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'index.html (1)'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -231,6 +239,16 @@
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
           <Count>48</Count>
+        </Item>
+      </Statistic>
+    </option>
+    <option name="suppressed">
+      <Statistic Action="Restrain scope highlighting">
+        <Item>
+          <IdeaActionID>Rainbow.ScopeOutsideHighlightingRestrainAction</IdeaActionID>
+          <ShortCut>'Alt+Button3 Click'</ShortCut>
+          <Description>Restrain scope highlighting</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
