@@ -18,9 +18,13 @@
           <option name="url" value="https://github.com/TheBestPessimist/AutoHotkey_L-Docs" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/raharrison/kotlin-ktor-exposed-starter" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\my work" />
+    <option name="cloneParentDir" value="C:\work" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
