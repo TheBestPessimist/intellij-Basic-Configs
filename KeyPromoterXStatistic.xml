@@ -6,7 +6,7 @@
           <IdeaActionID>ExternalSystem.CollapseAll</IdeaActionID>
           <ShortCut>'Ctrl+NumPad -' or 'Ctrl+Minus'</ShortCut>
           <Description>Collapse All</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Message History">
