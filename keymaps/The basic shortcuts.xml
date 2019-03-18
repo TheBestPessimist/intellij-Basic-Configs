@@ -51,6 +51,9 @@
   <action id="MethodHierarchy.OverrideMethodAction" />
   <action id="OverrideMethods" />
   <action id="RunJsbtTask" />
+  <action id="ScrollPane-scrollLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt clear" second-keystroke="shift ctrl alt s" />
+  </action>
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="alt f11" />
   </action>
