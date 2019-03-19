@@ -6,7 +6,7 @@
           <IdeaActionID>ExternalSystem.CollapseAll</IdeaActionID>
           <ShortCut>'Ctrl+NumPad -' or 'Ctrl+Minus'</ShortCut>
           <Description>Collapse All</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Message History">
@@ -22,7 +22,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>148</Count>
+          <Count>151</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Files">
@@ -86,6 +86,14 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete">
+        <Item>
+          <IdeaActionID>FileChooser.Delete</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Delete</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -158,7 +166,7 @@
           <IdeaActionID>OpenModuleSettings</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Open Module Settings</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -182,7 +190,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>3</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile 'WidgetServiceTest.kt'">
@@ -222,7 +230,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>7</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'FAQ.htm'">
@@ -241,6 +249,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'WebRestApiApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'WebRestApiApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'go build penis.go'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -257,11 +273,27 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Settings...">
+        <Item>
+          <IdeaActionID>ShowSettings</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+S'</ShortCut>
+          <Description>Settings...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Show All Affected Files">
         <Item>
           <IdeaActionID>Vcs.Log.ShowAllAffected</IdeaActionID>
           <ShortCut>'Alt+Shift+A'</ShortCut>
           <Description>Show All Affected Files</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Diagram...">
+        <Item>
+          <IdeaActionID>ShowUmlDiagram</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+U'</ShortCut>
+          <Description>Show Diagram...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -302,7 +334,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -310,7 +342,7 @@
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>TODO</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -342,7 +374,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>73</Count>
+          <Count>77</Count>
         </Item>
       </Statistic>
     </option>
