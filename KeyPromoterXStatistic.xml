@@ -46,7 +46,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Reference</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cut">
@@ -150,6 +150,14 @@
           <IdeaActionID>ChangesView.Rename</IdeaActionID>
           <ShortCut>'F2' or 'Shift+F6'</ShortCut>
           <Description>Edit Changelist...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Edit Configuration...">
+        <Item>
+          <IdeaActionID>RunDashboard.EditConfiguration</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Edit Configuration...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -278,7 +286,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'go build main.go'">
@@ -295,14 +303,6 @@
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
           <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run">
-        <Item>
-          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
-          <ShortCut>'Alt+4'</ShortCut>
-          <Description>Run</Description>
-          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'FAQ.htm'">
@@ -326,7 +326,15 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ServerBoot'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'SwingUIApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'SwingUIApplication'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'WebRestApiApplication'">
@@ -353,6 +361,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'metasfresh-dist-swingui'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'metasfresh-dist-swingui'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run to Cursor">
         <Item>
           <IdeaActionID>RunToCursor</IdeaActionID>
@@ -375,6 +391,14 @@
           <ShortCut>'Alt+Shift+A'</ShortCut>
           <Description>Show All Affected Files</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Configurations">
+        <Item>
+          <IdeaActionID>RunDashboard.ShowConfigurations</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+T'</ShortCut>
+          <Description>Show Configurations</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diagram...">
@@ -406,7 +430,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>17</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MainKt'">
@@ -423,6 +447,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'go build main.go'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'metasfresh-dist-swingui'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'metasfresh-dist-swingui'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -478,7 +510,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>82</Count>
+          <Count>84</Count>
         </Item>
       </Statistic>
     </option>
@@ -489,6 +521,14 @@
           <ShortCut>'Alt+Button3 Click'</ShortCut>
           <Description>Restrain scope highlighting</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
+          <ShortCut>'Alt+4'</ShortCut>
+          <Description>Run</Description>
+          <Count>28</Count>
         </Item>
       </Statistic>
     </option>
