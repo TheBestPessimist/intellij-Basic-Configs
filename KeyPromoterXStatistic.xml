@@ -281,14 +281,6 @@
           <Count>16</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Rerun">
-        <Item>
-          <IdeaActionID>RunDashboard.Run</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
-          <Description>Rerun</Description>
-          <Count>8</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Rerun 'go build main.go'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -430,7 +422,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>19</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MainKt'">
@@ -515,6 +507,14 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Rerun">
+        <Item>
+          <IdeaActionID>RunDashboard.Run</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Rerun</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Restrain scope highlighting">
         <Item>
           <IdeaActionID>Rainbow.ScopeOutsideHighlightingRestrainAction</IdeaActionID>
