@@ -462,7 +462,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>29</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MainKt'">
@@ -542,11 +542,17 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>91</Count>
+          <Count>94</Count>
         </Item>
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Download Sources and/or Documentation">
+        <Item>
+          <IdeaActionID>Maven.DownloadAllGroupPopup</IdeaActionID>
+          <Description>Download Sources and/or Documentation</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun">
         <Item>
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
