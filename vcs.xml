@@ -22,9 +22,17 @@
           <option name="url" value="https://github.com/raharrison/kotlin-ktor-exposed-starter" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/metasfresh/metasfresh-parent" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/metasfresh/metasfresh" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\work" />
+    <option name="cloneParentDir" value="C:\work-metas-2" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
