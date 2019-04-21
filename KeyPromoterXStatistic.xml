@@ -377,6 +377,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'auth-requests#6'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'auth-requests#6'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'de.metas.adempiere.adempiere.base_mf15-GenerateModel-table'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
