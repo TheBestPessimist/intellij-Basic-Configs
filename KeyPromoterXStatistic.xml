@@ -1,6 +1,14 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Add to VCS">
+        <Item>
+          <IdeaActionID>ChangesView.AddUnversioned</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+A'</ShortCut>
+          <Description>Add to VCS</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Collapse All">
         <Item>
           <IdeaActionID>ExternalSystem.CollapseAll</IdeaActionID>
@@ -22,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>194</Count>
+          <Count>196</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Files">
@@ -558,7 +566,7 @@
           <IdeaActionID>ShelveChanges.UnshelveWithDialog</IdeaActionID>
           <ShortCut>'Ctrl+Shift+U'</ShortCut>
           <Description>Unshelve...</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="VCS Operations Popup...">
@@ -574,7 +582,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>102</Count>
+          <Count>103</Count>
         </Item>
       </Statistic>
     </option>
