@@ -369,6 +369,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'kt.contest._1171.F__Division_and_UnionKt'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'kt.contest._1171.F__Division_and_UnionKt'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'land.tbp.ApplicationKt'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
