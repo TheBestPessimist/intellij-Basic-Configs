@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>265</Count>
+          <Count>266</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Files">
@@ -630,7 +630,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>118</Count>
+          <Count>119</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
