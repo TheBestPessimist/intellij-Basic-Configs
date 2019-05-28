@@ -326,7 +326,7 @@
           <IdeaActionID>QuickEvaluateExpression</IdeaActionID>
           <ShortCut>'Ctrl+Alt+F8'</ShortCut>
           <Description>Quick Evaluate Expression</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile 'WidgetServiceTest.kt'">
@@ -351,6 +351,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'B - Long Number.kts'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'BKt'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'BKt'</Description>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'B_Long_Number_Test.example1'">
@@ -551,6 +559,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop</Description>
           <Count>32</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'BKt'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'BKt'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'B_Long_Number_Test.example1'">
